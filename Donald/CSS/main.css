@@ -1,0 +1,55 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+}
+
+h1 {
+	font-size: 100px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color: rgb(255, 255, 255);
+}
+
+h2 {
+	font-size: 56px;
+}
+h3 {
+	font-size: 56px;
+}
+
+p {
+    font-size: 2rem;
+  }
+
+.about {
+    padding: 250px 0;
+    
+	
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("../Images/Chocolate.jfif");
+  background-size: cover;
+  color: #ffffff;
+}
+
+.index {
+    padding: 250px 0;
+	
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("../Images/Chocolate.jfif");
+  background-size: cover;
+  color: #ffffff;
+  
+}
+
+.products {
+
+  
+  padding: 1px 0;
+
+font-family: 'Trebuchet MS', Helvetica, sans-serif;
+background-image: url("images/brownBackground.jpg");
+background-size: cover;
+color: #ffffff;
+
+}

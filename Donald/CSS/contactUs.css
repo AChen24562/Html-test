@@ -1,0 +1,40 @@
+body {
+	height: 100%;
+	margin: 0;
+	text-align: center;
+	width: 100%;
+    font-size: 215%;
+}
+
+h1 {
+	font-size: 100px;
+    font-family: Palatino, 'Palatino Linotype', serif;
+    color: rgb(0, 0, 0);
+}
+
+h2 {
+	font-size: 50px;
+}
+h3 {
+	font-size: 56px;
+}
+
+p {
+    font-size: 2rem;
+  }
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contact {
+
+  
+padding: 1px 0;
+  font-family: 'Trebuchet MS', Helvetica, sans-serif;
+  background-image: url("../Images/whiteGradientBackground.jpg");
+  background-size: cover;
+  color: #000000;
+  
+  }
